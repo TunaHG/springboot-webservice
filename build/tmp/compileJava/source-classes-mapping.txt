@@ -1,4 +1,2 @@
-com/tunahg/book/springboot/web/HelloController.java
- com.tunahg.book.springboot.web.HelloController
 com/tunahg/book/springboot/Application.java
  com.tunahg.book.springboot.Application
