@@ -1,2 +1,10 @@
+com/tunahg/book/springboot/web/dto/HelloResponseDtoTest.java
+ com.tunahg.book.springboot.web.dto.HelloResponseDtoTest
+com/tunahg/book/springboot/domain/posts/PostsRepositoryTest.java
+ com.tunahg.book.springboot.domain.posts.PostsRepositoryTest
+com/tunahg/book/springboot/web/PostsAPIControllerTest.java
+ com.tunahg.book.springboot.web.PostsAPIControllerTest
+com/tunahg/book/springboot/web/IndexControllerTest.java
+ com.tunahg.book.springboot.web.IndexControllerTest
 com/tunahg/book/springboot/web/HelloControllerTest.java
  com.tunahg.book.springboot.web.HelloControllerTest
