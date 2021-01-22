@@ -154,3 +154,6 @@ gradle-app.setting
 **/build/
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,gradle,java-web,java
+
+# oauth properties
+application-oauth.properties
